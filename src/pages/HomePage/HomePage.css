@@ -1,0 +1,48 @@
+.homeContainer {
+    text-align: center;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0.625rem;
+    align-items: center;
+  }
+  
+  .filterBtn, .paginationBtn {
+    background-color: #fcfdfc;
+    border-radius: 0.3rem;
+    padding: 0.9375rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0.625rem 0.3125rem;
+    cursor: pointer;
+  }
+  
+  .filterBtn {
+    background-color: #fb6ef9;
+  }
+  
+  .filterBtn:hover {
+    background-color: #bb2693;
+    color: #fbfcfd;
+  }
+  
+  .paginationBtn {
+    background-color: #9aa8ef;
+  }
+  
+  .paginationBtn:hover {
+    background-color: #45abf4;
+    color: #fbfcfc;
+  }
+  
+  .cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0.625rem;
+  }

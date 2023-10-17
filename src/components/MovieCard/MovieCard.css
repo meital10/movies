@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0.25rem 0.5rem 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15.625rem;
+    border-radius: 0.3rem;
+    margin: 0.625rem;
+    padding: 0.3125rem;
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0,0.2);
+  }
+  img{
+    border-radius: 0.3125rem;
+  }
+
