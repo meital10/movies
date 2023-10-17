@@ -72,7 +72,7 @@ export function HomePage() {
       <div className="buttonContainer">
         <div className="filterButtons">
           <button className="filterBtn" onClick={filterByPopularity}>
-            Filter By Popularity
+            Popular
           </button>
           <button className="filterBtn" onClick={nowPlaying}>
             Now Playing
