@@ -10,7 +10,7 @@ By using this app users can:
 - See what movies are currently showing
 - Mark the selected movie as a favorite
 - Filter the results in home page by popular movies, now palying and favorite movies
-- insert inside movie card to see movie details
+- Insert inside movie card to see movie details
 
 ### Screenshots
 
@@ -21,7 +21,7 @@ By using this app users can:
 - Creat React App
 - Themoviedb APIs
 - Axios for making HTTP Requests
-- css for design
+- Css for design
 
 ## How to run the project
 
